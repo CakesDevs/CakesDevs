@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CakesDevs
 FiveM Developer And Creator..
 
-<!---
-CakesDevs/CakesDevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a bedrest script i modified/forked from albo1125 Jailer script !
+Enjoy-- it is configed to LesDiables hospital. If you want to change it the coords are in the client file !
